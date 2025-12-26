@@ -1,0 +1,7 @@
+Ele roda em Windows, desde que:
+Python esteja instalado
+Os módulos estejam instalados:
+pywin32
+psutil
+O script seja executado como Administrador
+A auditoria Event ID 4688 (Process Creation) esteja ativada no Windows

@@ -15,6 +15,7 @@ ações maliciosas pós-exploração
 abuso administrativo ou uso indevido de LOLBins (Living off the Land Binaries)
 
 O que o código faz, na prática
+
 1️⃣ Análise do Windows Security Event Log
 
 O script acessa o Windows Security Log e busca eventos de criação de processo (Event ID 4688) ocorridos nas últimas 6 horas.
